@@ -16,3 +16,5 @@ tags = {
     Name = "Terraform VPC"
     }
 } # end resource
+
+#Use this to create a VPC in AWS cloud.
